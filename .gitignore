@@ -20,6 +20,7 @@ __pycache__/
 
 # Model weights
 *.pth
+!utils/best_model.pth
 *.pt
 *.h5
 
