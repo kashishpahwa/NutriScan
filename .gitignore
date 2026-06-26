@@ -1,0 +1,27 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Dataset
+food-101/
+food-101.zip
+__MACOSX/
+
+# Training outputs
+result/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Model weights
+*.pth
+*.pt
+*.h5
+
+# Environment variables
+.env

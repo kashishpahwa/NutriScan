@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+
+# Backgrounds
+backgroundColor         = "#0d0d0d"
+secondaryBackgroundColor = "#161616"
+
+# Text
+textColor               = "#e8e8e8"
+
+# Accent — clean blue, no green anywhere
+primaryColor            = "#4f8ef7"
+
+# Font — sans-serif maps to system UI stack (clean, modern)
+font                    = "sans serif"
