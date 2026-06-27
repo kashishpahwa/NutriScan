@@ -4,6 +4,8 @@ NutriScan is a deep learning application that identifies food from photos and tr
 
 ---
 
+🚀 **Live Demo:https://nutriscan-phestyilkjpbaaplq9xwgv.streamlit.app/
+
 ## Features
 
 - **AI Food Recognition** — identifies 182 food categories including Indian and international cuisines
