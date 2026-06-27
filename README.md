@@ -250,3 +250,13 @@ Training metrics are saved to `utils/model_stats.json` after each run. Open `tra
 - [CutMix](https://arxiv.org/abs/1905.04899) — Yun et al., ICCV 2019
 - [PyTorch](https://pytorch.org/) and [Streamlit](https://streamlit.io/)
 
+## 📸 Application Screenshots
+
+- <img width="1917" height="966" alt="UI" src="https://github.com/user-attachments/assets/bb9c0519-0b14-48d1-b8db-e6ed54d027c0" />
+- <img width="1917" height="968" alt="Customise_daily_goals" src="https://github.com/user-attachments/assets/51206abf-2c75-4063-b0ab-18d5e054a2aa" />
+- <img width="1918" height="962" alt="Progress" src="https://github.com/user-attachments/assets/2d86ae52-c836-43a6-8de9-1b9fbdfe872a" />
+
+
+
+
+
